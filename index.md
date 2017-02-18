@@ -2,8 +2,9 @@
 
 Captive Auto Login and Verification of Identity for the Network
 
-Login to UD's wifi online
+## Project to Login to automatically login to UD's wifi
 
 ###This is the Project Page
 
-[cofig](ab.md)
+[Members](ab.md)
+[Current Issues] (currentissues.md)
