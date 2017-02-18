@@ -1,4 +1,4 @@
-**##Below are our current issues in the project**
+##Below are our current issues in the project
 
 ### Host with GIT Hub Pages
 ### Why does Calvin has spikey hair?
