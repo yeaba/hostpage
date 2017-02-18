@@ -6,5 +6,6 @@ Captive Auto Login and Verification of Identity for the Network
 
 ###This is the Project Page
 
-[Members](ab.md)
-[Current Issues] (currentissues.md)
+- [Members](ab.md)
+
+- [Current Issues] (currentissues.md)
